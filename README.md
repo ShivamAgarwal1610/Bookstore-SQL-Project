@@ -10,6 +10,7 @@ Customers.csv – Customer information
 
 SQLQuery1.sql to SQLQuery6.sql – SQL scripts performing various queries and data analysis
 
+
 🛠 Tools & Tech
 
 SQL Database – MySQL / SQL Server / PostgreSQL (any supported)
