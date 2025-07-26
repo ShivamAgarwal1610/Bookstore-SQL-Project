@@ -14,7 +14,6 @@ Query Tools – SSMS, DBeaver, MySQL Workbench, etc.
 🚀 How to Use
 
 Import Books.csv and Customers.csv into your database.
-
 Run the SQL files in sequence (SQLQuery1.sql to SQLQuery6.sql).
 
 Analyze outputs in your SQL tool.
